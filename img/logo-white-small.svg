@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="31"
+   height="17"
+   viewBox="0 0 8.2021195 4.4979195"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="logo-white-small.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.1166438"
+     inkscape:cx="197.16722"
+     inkscape:cy="44.438829"
+     inkscape:window-width="2265"
+     inkscape:window-height="1033"
+     inkscape:window-x="721"
+     inkscape:window-y="79"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-page="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true"
+     objecttolerance="20"
+     guidetolerance="10000"
+     units="px"
+     gridtolerance="10" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.76252px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.119897"
+       x="2.2835829"
+       y="7.1430397"
+       id="text1749"
+       transform="scale(1.1319583,0.88342477)"><tspan
+         sodipodi:role="line"
+         id="tspan1747"
+         style="font-size:4.76252px;fill:#ffffff;stroke-width:0.119897"
+         x="2.2835829"
+         y="7.1430397"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.7959px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.266439"
+       x="4.5309305"
+       y="4.1792054"
+       id="text2204"
+       transform="scale(0.99304002,1.0070088)"><tspan
+         sodipodi:role="line"
+         id="tspan2202"
+         style="font-size:4.7959px;fill:#ffffff;stroke-width:0.266439"
+         x="4.5309305"
+         y="4.1792054">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.76243px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458"
+       x="0.42446229"
+       y="4.0748429"
+       id="text7868"
+       transform="scale(1.0000181,0.99998187)"><tspan
+         sodipodi:role="line"
+         id="tspan7866"
+         style="font-size:4.76243px;fill:#ffffff;stroke-width:0.26458"
+         x="0.42446229"
+         y="4.0748429">J</tspan></text>
+    <rect
+       style="fill:#ff0000;stroke-width:0.197142"
+       id="rect9820"
+       width="4.1748104"
+       height="0.25301784"
+       x="-1.0319953"
+       y="4.2152605"
+       inkscape:transform-center-x="-3.90802"
+       inkscape:transform-center-y="17.168831"
+       transform="matrix(0.70987799,-0.70432467,0.70951089,0.70469447,0,0)" />
+  </g>
+</svg>
