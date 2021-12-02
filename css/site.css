@@ -67,3 +67,14 @@ code[class*="language-"],
     height: 5rem;
 
 } */
+
+.Fizz{
+color:darkgreen;
+}
+.Buzz{
+color: darkblue;
+}
+.FizzBuzz{
+color: red;
+font-weight: bold;
+}
